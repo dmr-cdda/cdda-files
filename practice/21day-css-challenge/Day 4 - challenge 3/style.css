@@ -1,0 +1,33 @@
+.container{
+    background-color: #23424A;
+    color : white;
+    padding : 7rem 9.25rem;
+}
+
+.main-section{
+    max-width: 750px;
+}
+
+.title{
+    font-size: 3em;
+    font-weight: 900;
+}
+
+.description {
+    font-size: 1.5em;
+    margin-bottom: 50px;
+}
+
+.btn-link{
+    font-size: 1.5rem;
+    text-decoration: none;
+    background-color: #38CFD9;
+    padding: .5em 1em;
+    border-radius: 2em;
+    color: white;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn-link:hover{
+    background-color: #045f66;
+}
